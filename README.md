@@ -1,4 +1,4 @@
-# Seja bem-vindo! Eu sou o Rui. 👋
+<center# Seja bem-vindo! Eu sou o Rui. 👋/center>
 
 - 🔭 Estou a procura de uma oportunidade na área de tecnologia.
 - 🌱 Atualmente estou estudando C#, cybersecurity, ReactNative, desenvolvimento de APIs e sistemas operacionais. Também estou estudando conteúdos relacionados a área de negócios de tecnologia,
