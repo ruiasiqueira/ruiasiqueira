@@ -8,10 +8,10 @@ como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
 
 <div align="center">
   <a href="https://github.com/ruiasiqueira/github-readme-stats" style="margin-right: 10px;">
-    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=dark&rank_icon=github" />
+    <img height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=dark&rank_icon=github" />
   </a>
   <a href="https://github.com/ruiasiqueira/convoychat">
-    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruiasiqueira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+    <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruiasiqueira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
   </a>
 </div>
 
