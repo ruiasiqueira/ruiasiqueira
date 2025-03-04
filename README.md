@@ -6,8 +6,14 @@ como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
 - ✉️ E-mail: ruiamorim20046@gmail.com
 - 👨‍💻 Estudante de Engenharia de Software na FIAP
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiasiqueira&layout=compact&theme=dark)
+<div align="center">
+  <a href="https://github.com/ruiasiqueira/github-readme-stats" style="margin-right: 20px;">
+    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/ruiasiqueira/convoychat">
+    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruiasiqueira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  </a>
+</div>
 
 ##
 
