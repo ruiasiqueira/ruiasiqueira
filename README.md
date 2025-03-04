@@ -6,7 +6,7 @@ como metologias ageis, gerencimaneto de TI, qualidede de software entre outros.
 - ✉️ E-mail: ruiamorim20046@gmail.com
 - 👨‍💻 Estudante de Engenharia de Software na FIAP
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiasiqueira&layout=compact&theme=dark)
 
 ##
