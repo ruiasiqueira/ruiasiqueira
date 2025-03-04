@@ -7,7 +7,7 @@ como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
 - 👨‍💻 Estudante de Engenharia de Software na FIAP
 
 <div align="center">
-  <a href="https://github.com/ruiasiqueira/github-readme-stats" style="margin-right: 20px;">
+  <a href="https://github.com/ruiasiqueira/github-readme-stats" style="margin-right: 10px;">
     <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=ruiasiqueira&show_icons=true&theme=dark&rank_icon=github" />
   </a>
   <a href="https://github.com/ruiasiqueira/convoychat">
